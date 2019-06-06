@@ -13,3 +13,5 @@ tqdm (progress bars)
 xlrd
 lxml
 pyteomics (preferred way to install is pip Python package manager)
+
+Josh Fass and Nicole McNeer
