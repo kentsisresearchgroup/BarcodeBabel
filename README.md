@@ -17,19 +17,31 @@ Data: Sample human proteome and common contaminants, and example 48 test barcode
 # Dependencies 
 
 matplotlib
+
 numpy
+
 scipy
+
 sci-kitlearn
+
 pandas
+
 biopython
+
 tqdm (progress bars)
+
 xlrd
+
 lxml
+
 pyteomics (preferred way to install is pip Python package manager)
 
 # Authors
 
 Josh Fass | josh.fass@choderalab.org
+
 Nicole McNeer | mcneern@mskcc.org
+
 Alex Kentsis | kentsisresearchgroup@gmail.com
+
 John Chodera | john.chodera@choderalab.org
