@@ -1,6 +1,6 @@
 # BarcodeBabel
 
-Python script for generation of peptide barcodes for LC-MS/MS
+Python script for generation of peptide barcodes for electrospray LC-MS/MS
 
 # Overview
 
