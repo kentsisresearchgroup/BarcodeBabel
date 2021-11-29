@@ -86,10 +86,10 @@ pyteomics (preferred way to install is pip Python package manager)
 
 # Authors
 
+Elliot Eton | elliot.eton@gmail.com
+
 Josh Fass | josh.fass@choderalab.org
 
 Nicole McNeer | mcneern@mskcc.org
 
 Alex Kentsis | kentsisresearchgroup@gmail.com
-
-John Chodera | john.chodera@choderalab.org
