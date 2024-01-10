@@ -154,4 +154,3 @@ Elliot Eton | eoe4001@med.cornell.edu
 
 Alex Kentsis | kentsisresearchgroup@gmail.com
 
-John Chodera | john.chodera@choderalab.org
