@@ -11,8 +11,8 @@ BarcodeBabel is an algorithm to generate libraries of peptide barcodes with user
 # Manifest
 
 NoteBooks: 	BarcodeBabel_KRG_v8_script.py -- BarcodeBabel python script
-		Barcode_Babel_KRG_v8_script_notebook.ipynb - BarcodeBabel python script as Jupyter notebook (cannot run in Jupyter) - useful for editing script (must be resaved)
-		BarcodeBabel_KRG_v8_notebook.ipynb - BarcodeBabel as Jupyter notebook - useful for Beta-testing in Jupyter interface
+		Barcode_Babel_KRG_v8_script_notebook.ipynb - BarcodeBabel python script as Jupyter notebook 
+		BarcodeBabel_KRG_v8_notebook.ipynb - BarcodeBabel as Jupyter notebook 
 
 Input File: 	inputfile.csv - sample .CSV file containing parameters and default values
 
