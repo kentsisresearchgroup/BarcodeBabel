@@ -18,9 +18,13 @@ Barcode_Babel_KRG_v8_script_notebook.ipynb - BarcodeBabel python script as Jupyt
 
 BarcodeBabel_KRG_v8_notebook.ipynb - BarcodeBabel as Jupyter notebook 
 
-Input File: 	inputfile.csv - sample .CSV file containing parameters and default values
+Input File: 	
 
-Data: 		Sample human proteome and common contaminants, and example 48 test barcodes
+inputfile.csv - sample .CSV file containing parameters and default values
+
+Data: 		
+
+Sample human proteome and common contaminants, and example 48 test barcodes
 
 
 # Dependencies 
