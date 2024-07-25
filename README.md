@@ -144,13 +144,17 @@ C. BarcodeBabel outputs several files into the directory.
 •	Library distribution of peptide hydrophobicity.
 
 
-# Authors
+# Reference
 
-Josh Fass | josh.fass@choderalab.org
+Proteomic Barcoding Platform for Macromolecular Screening and Delivery
 
-Nicole McNeer | mcneern@mskcc.org
+Ning Wang, Nicole A Mcneer, Elliot Eton, Josh Fass, Alex Kentsis
 
-Elliot Eton | eoe4001@med.cornell.edu
+J Proteome Res 2024 Jun 7;23(6):2067-2077
 
-Alex Kentsis | kentsisresearchgroup@gmail.com
+doi: 10.1021/acs.jproteome.4c00068
+
+https://pubmed.ncbi.nlm.nih.gov/38776430/
+
+
 
